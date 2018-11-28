@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f7ebfb-5a83-4858-8623-3426c9643191" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestFirefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestSafari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,26 +25,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="6" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="6" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="864" />
+          <entry key="java" value="878" />
           <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="864" />
+          <entry key="JAVA" value="878" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="10" />
         </counts>
@@ -74,11 +74,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestFirefox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="138" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="138" />
+            <state relative-caret-position="105">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestSafari.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestChrome.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestFirefox.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestSafari.java" />
       </list>
     </option>
   </component>
@@ -126,7 +139,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="81" />
+    <option name="x" value="24" />
+    <option name="y" value="80" />
     <option name="width" value="1223" />
     <option name="height" value="652" />
   </component>
@@ -199,7 +213,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543411642195" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543412335504" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstTestFirefox">
+  <component name="RunManager" selected="Application.FirstTestSafari">
     <configuration name="FirstTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.selenium.FirstTest" />
       <module name="selenium_study" />
@@ -255,6 +269,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FirstTestSafari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.selenium.study.FirstTestSafari" />
+      <module name="selenium_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.selenium.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyFirstTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.selenium.MyFirstTest" />
       <module name="selenium_study" />
@@ -272,9 +299,11 @@
       <item itemvalue="Application.MyFirstTest" />
       <item itemvalue="Application.FirstTestChrome" />
       <item itemvalue="Application.FirstTestFirefox" />
+      <item itemvalue="Application.FirstTestSafari" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstTestSafari" />
         <item itemvalue="Application.FirstTestFirefox" />
         <item itemvalue="Application.FirstTestChrome" />
         <item itemvalue="Application.FirstTest" />
@@ -296,7 +325,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="88" width="1223" height="652" extended-state="0" />
+    <frame x="24" y="80" width="1223" height="652" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18882303" />
@@ -361,8 +390,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestFirefox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="138" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="138" />
+        <state relative-caret-position="105">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestSafari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
