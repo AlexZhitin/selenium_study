@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f7ebfb-5a83-4858-8623-3426c9643191" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestChrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestChrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,60 +15,70 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1344118175">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="6" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="6" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="6" />
-          <entry key="java" value="1478" />
-          <entry key="xml" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1478" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="XML" value="10" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+            <state relative-caret-position="340">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElementFromList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestChrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElementXpath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/InterruptThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/AdvancedXpath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestFirefox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="153">
+              <caret line="9" column="139" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="139" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestSafari.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,11 +125,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ua/selenium/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestSafari.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestFirefox.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestChrome.java" />
       </list>
     </option>
@@ -139,10 +152,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="121" />
-    <option name="width" value="1223" />
-    <option name="height" value="652" />
+    <option name="x" value="206" />
+    <option name="y" value="5" />
+    <option name="width" value="1570" />
+    <option name="height" value="965" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -197,15 +210,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="selenium-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_study" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -213,7 +217,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543419713112" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544301759351" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -228,75 +233,67 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.FirstTestChrome">
-    <configuration name="FirstTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.selenium.FirstTest" />
-      <module name="selenium_study" />
-      <option name="VM_PARAMETERS" value="-Dwebdriver.chrome.driver=&quot;$PROJECT_DIR$/../../Selenium\ projects/selenium_study/src/main/resources/chromedriver&quot;" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTestChrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.selenium.study.FirstTestChrome" />
-      <module name="selenium_study" />
+    <configuration name="AdvancedXpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium.study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.selenium.study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ua.selenium.study" />
+      <option name="MAIN_CLASS_NAME" value="ua.selenium.study.AdvancedXpath" />
+      <option name="METHOD_NAME" value="" />
+      <option name="VM_PARAMETERS" value="-Dwebdriver.chrome.driver=&quot;D:\QA\Selenium\selenium_study\src\main\resources\chromedriver.exe&quot;" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTestFirefox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.selenium.study.FirstTestFirefox" />
-      <module name="selenium_study" />
-      <option name="VM_PARAMETERS" value="-Dwebdriver.gecko.driver=&quot;$PROJECT_DIR$/src/main/resources/geckodriver&quot;" />
+    <configuration name="FindElemenBy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium.study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.selenium.study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ua.selenium.study" />
+      <option name="MAIN_CLASS_NAME" value="ua.selenium.study.FindElemenBy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTestSafari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.selenium.study.FirstTestSafari" />
-      <module name="selenium_study" />
+    <configuration name="FindElementFromList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium.study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.selenium.study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ua.selenium.study" />
+      <option name="MAIN_CLASS_NAME" value="ua.selenium.study.FindElementFromList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.selenium.MyFirstTest" />
-      <module name="selenium_study" />
+    <configuration name="FindElementXpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium.study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.selenium.*" />
+          <option name="PATTERN" value="ua.selenium.study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ua.selenium.study" />
+      <option name="MAIN_CLASS_NAME" value="ua.selenium.study.FindElementXpath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FirstTestChrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium_study" />
+      <module name="selenium.study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.selenium.study.*" />
@@ -305,24 +302,26 @@
       </extension>
       <option name="PACKAGE_NAME" value="ua.selenium.study" />
       <option name="MAIN_CLASS_NAME" value="ua.selenium.study.FirstTestChrome" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyFirstTest" />
-      <item itemvalue="Application.FirstTestChrome" />
-      <item itemvalue="Application.FirstTestFirefox" />
-      <item itemvalue="Application.FirstTestSafari" />
       <item itemvalue="JUnit.FirstTestChrome" />
+      <item itemvalue="JUnit.AdvancedXpath" />
+      <item itemvalue="JUnit.FindElementXpath" />
+      <item itemvalue="JUnit.FindElemenBy" />
+      <item itemvalue="JUnit.FindElementFromList" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FirstTestChrome" />
-        <item itemvalue="Application.FirstTestChrome" />
-        <item itemvalue="Application.FirstTestFirefox" />
-        <item itemvalue="Application.FirstTestSafari" />
-        <item itemvalue="Application.FirstTest" />
+        <item itemvalue="JUnit.AdvancedXpath" />
+        <item itemvalue="JUnit.FindElementFromList" />
+        <item itemvalue="JUnit.FindElemenBy" />
+        <item itemvalue="JUnit.FindElementXpath" />
       </list>
     </recent_temporary>
   </component>
@@ -340,37 +339,59 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTestChrome - 2018.11.28 at 17h 37m 28s.xml">
+    <history-entry file="FindElementXpath - 2018.12.08 at 22h 13m 59s.xml">
+      <configuration name="FindElementXpath" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindElemenBy - 2018.12.08 at 22h 21m 24s.xml">
+      <configuration name="FindElemenBy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindElemenBy - 2018.12.08 at 22h 22m 22s.xml">
+      <configuration name="FindElemenBy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindElemenBy - 2018.12.08 at 22h 22m 23s.xml">
+      <configuration name="FindElemenBy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindElemenBy - 2018.12.08 at 22h 22m 50s.xml">
+      <configuration name="FindElemenBy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindElementFromList - 2018.12.08 at 22h 28m 47s.xml">
+      <configuration name="FindElementFromList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdvancedXpath - 2018.12.08 at 22h 33m 13s.xml">
+      <configuration name="AdvancedXpath" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTestChrome - 2018.12.08 at 22h 35m 12s.xml">
       <configuration name="FirstTestChrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestChrome - 2018.11.28 at 17h 38m 12s.xml">
+    <history-entry file="FirstTestChrome - 2018.12.08 at 22h 36m 49s.xml">
       <configuration name="FirstTestChrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTestChrome - 2018.11.28 at 17h 40m 13s.xml">
+    <history-entry file="FirstTestChrome - 2018.12.08 at 22h 38m 47s.xml">
       <configuration name="FirstTestChrome" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="121" width="1223" height="652" extended-state="0" />
+    <frame x="165" y="4" width="1256" height="772" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18882303" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28846154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3017857" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39961013" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3015625" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24952918" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -379,34 +400,32 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32938188" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestChrome.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="187">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/InterruptThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        <state relative-caret-position="195">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestSafari.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -415,8 +434,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestFirefox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="153">
+          <caret line="9" column="139" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="139" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElementXpath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElementFromList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/AdvancedXpath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -425,11 +468,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FirstTestChrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        <state relative-caret-position="255">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
