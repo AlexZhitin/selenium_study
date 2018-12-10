@@ -14,7 +14,7 @@ public class Wait {
 
     ChromeDriver driver = new ChromeDriver();
 
-    /*Explicit Wait. WebDriverWait in combination with ExpectedCondition is better. Waits till the element is found else throws no Element found*/
+    /*Explicit Wait. WebDriverWait in combination with ExpectedCondition is better. Waits till the exact element is found else throws no Element found*/
 
     WebDriverWait wait = new WebDriverWait(driver, 20);
 
@@ -31,7 +31,7 @@ public class Wait {
 }
 
 
-   /*Implicit wait. Waits for the given time and then executes next method.
+   /*Implicit wait. Waits for the element to become visible (element next by the thread)
 
 
     ChromeDriver driver = new ChromeDriver();
