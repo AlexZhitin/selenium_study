@@ -20,6 +20,8 @@ public class Wait {
   WebDriverWait wait = new WebDriverWait(driver, 20);
 
   @Test
+
+  
   public void WaitMethods() {
 
     driver.navigate().to("https://www.rediff.com/");
