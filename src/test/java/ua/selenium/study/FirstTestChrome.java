@@ -8,14 +8,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class FirstTestChrome {
 
-
   ChromeDriver driver = new ChromeDriver();
 
   @Before
 
           public void setUp (){
-    System.setProperty("webdriver.chrome.driver", "/Users/Sasha/Documents/Selenium projects/selenium_study/src/main/resources/chromedriver");
-    System.out.println("Before of test");
+
+    System.out.println("Before test");
 
   }
 
@@ -37,6 +36,7 @@ public class FirstTestChrome {
   @After
 
   public void End() {
+
     driver.quit();
     System.out.println("End of test");
   }
