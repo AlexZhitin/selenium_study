@@ -12,21 +12,20 @@ import java.util.concurrent.TimeUnit;
 
 public class Wait {
 
-    ChromeDriver driver = new ChromeDriver();
+  ChromeDriver driver = new ChromeDriver();
 
-    /*Explicit Wait. WebDriverWait in combination with ExpectedCondition is better. Waits till the exact element is found else throws no Element found*/
+  /*Explicit Wait. WebDriverWait in combination with ExpectedCondition is better. Waits till the exact element is found else throws no Element found*/
 
-    WebDriverWait wait = new WebDriverWait(driver, 20);
+  WebDriverWait wait = new WebDriverWait(driver, 20);
 
-    @Test
-    public void WaitMethods() {
+  @Test
+  public void WaitMethods() {
 
-        driver.navigate().to("https://www.rediff.com/");
-        wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[@id=\"signin_info\"]/a[.='Sign in']"))).click();
+    driver.navigate().to("https://www.rediff.com/");
+    wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[@id=\"signin_info\"]/a[.='Sign in']"))).click();
 
-    }
+  }
 }
-
 
    /*Implicit wait. Waits for the element to become visible (element next by the thread)
 
@@ -39,4 +38,5 @@ public class Wait {
         driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
         driver.findElement(By.xpath("//*[@id=\"signin_info\"]/a[.='Sign in']")).click();
     }
+
 }*/
