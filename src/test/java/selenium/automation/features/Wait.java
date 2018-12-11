@@ -21,7 +21,7 @@ public class Wait {
 
   @Test
 
-  
+
   public void WaitMethods() {
 
     driver.navigate().to("https://www.rediff.com/");
