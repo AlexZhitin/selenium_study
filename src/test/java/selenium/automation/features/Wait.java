@@ -12,6 +12,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Wait {
 
+
   ChromeDriver driver = new ChromeDriver();
 
   /*Explicit Wait. WebDriverWait in combination with ExpectedCondition is better. Waits till the exact element is found else throws no Element found*/
@@ -27,6 +28,7 @@ public class Wait {
   }
 }
 
+
    /*Implicit wait. Waits for the element to become visible (element next by the thread)
 
 
@@ -38,5 +40,4 @@ public class Wait {
         driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
         driver.findElement(By.xpath("//*[@id=\"signin_info\"]/a[.='Sign in']")).click();
     }
-
 }*/
