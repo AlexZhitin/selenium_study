@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0f7ebfb-5a83-4858-8623-3426c9643191" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/automation/features/RadioButtonsSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/automation/features/RadioButtonsSelection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,12 +25,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="406" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="406" />
         </counts>
       </usages-collector>
     </session>
@@ -48,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="150">
               <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -72,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/AdvancedXpath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,20 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Navigation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/RadioButtonsSelection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+            <state relative-caret-position="197">
+              <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -102,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Wait.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-115">
+            <state relative-caret-position="-63">
               <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
@@ -152,10 +153,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="103" />
-    <option name="width" value="1017" />
-    <option name="height" value="608" />
+    <option name="x" value="139" />
+    <option name="y" value="113" />
+    <option name="width" value="1046" />
+    <option name="height" value="642" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -234,7 +235,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544629619047" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544633465957" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -249,24 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Wait">
-    <configuration name="AdvancedXpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium.study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.selenium.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ua.selenium.study" />
-      <option name="MAIN_CLASS_NAME" value="ua.selenium.study.AdvancedXpath" />
-      <option name="METHOD_NAME" value="" />
-      <option name="VM_PARAMETERS" value="-Dwebdriver.chrome.driver=&quot;D:\QA\Selenium\selenium_study\src\main\resources\chromedriver.exe&quot;" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.RadioButtonsSelection">
     <configuration name="FindElemenBy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium.study" />
       <extension name="coverage">
@@ -311,6 +295,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RadioButtonsSelection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.automation.features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.automation.features" />
+      <option name="MAIN_CLASS_NAME" value="selenium.automation.features.RadioButtonsSelection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Wait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium_study" />
       <extension name="coverage">
@@ -327,18 +325,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.FirstTestChrome" />
-      <item itemvalue="JUnit.AdvancedXpath" />
       <item itemvalue="JUnit.FindElemenBy" />
       <item itemvalue="JUnit.FindElementFromList" />
       <item itemvalue="JUnit.Wait" />
+      <item itemvalue="JUnit.RadioButtonsSelection" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RadioButtonsSelection" />
         <item itemvalue="JUnit.Wait" />
         <item itemvalue="JUnit.FindElemenBy" />
         <item itemvalue="JUnit.FindElementFromList" />
         <item itemvalue="JUnit.FirstTestChrome" />
-        <item itemvalue="JUnit.AdvancedXpath" />
       </list>
     </recent_temporary>
   </component>
@@ -356,42 +354,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindElemenBy - 2018.12.09 at 17h 09m 38s.xml">
-      <configuration name="FindElemenBy" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 29m 43s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindElemenBy - 2018.12.09 at 17h 10m 12s.xml">
-      <configuration name="FindElemenBy" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 32m 18s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindElemenBy - 2018.12.09 at 17h 13m 17s.xml">
-      <configuration name="FindElemenBy" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 32m 57s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindElemenBy - 2018.12.09 at 17h 15m 54s.xml">
-      <configuration name="FindElemenBy" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 35m 29s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindElemenBy - 2018.12.09 at 17h 16m 27s.xml">
-      <configuration name="FindElemenBy" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 39m 32s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindElemenBy - 2018.12.09 at 17h 33m 00s.xml">
-      <configuration name="FindElemenBy" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 40m 24s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindElemenBy - 2018.12.09 at 17h 34m 39s.xml">
-      <configuration name="FindElemenBy" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 42m 06s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindElemenBy - 2018.12.09 at 17h 43m 14s.xml">
-      <configuration name="FindElemenBy" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 44m 45s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindElemenBy - 2018.12.09 at 17h 50m 45s.xml">
-      <configuration name="FindElemenBy" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 46m 02s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Wait - 2018.12.11 at 16h 17m 07s.xml">
-      <configuration name="Wait" configurationId="JUnit" />
+    <history-entry file="RadioButtonsSelection - 2018.12.12 at 18h 47m 36s.xml">
+      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="127" y="103" width="1017" height="608" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23589744" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23589744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,15 +398,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851853" weight="0.32792208" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4974359" visible="true" weight="0.3275194" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39728683" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5014815" side_tool="true" weight="0.32792208" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50256413" side_tool="true" weight="0.3275194" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49925926" weight="0.30032468" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49925926" weight="0.2984496" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24952918" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -470,16 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElementFromList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -490,34 +478,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Wait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/AdvancedXpath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Wait.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/RadioButtonsSelection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Navigation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/RadioButtonsSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
         </state>
       </provider>
     </entry>
