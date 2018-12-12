@@ -22,7 +22,7 @@ public class RadioButtonsSelection {
 
         driver.get("https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_radio");
         driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        List<WebElement> list = driver.findElements(By.xpath("/html[1]/body[1]/form[1]/input[1]"));
+        List<WebElement> list = driver.findElements(By.xpath("/html[1]/body[1]/form[1]/input[@name='gender']"));
 
         System.out.println(list.size());
 
