@@ -20,9 +20,9 @@ public class RadioButtonsSelection {
 
     public void RadioButtons() {
 
-        driver.get("https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_radio");
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        List<WebElement> list = driver.findElements(By.xpath("/html[1]/body[1]/form[1]/input[@name='gender']"));
+        driver.get("http://www.echoecho.com/htmlforms10.htm");
+        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        List<WebElement> list = driver.findElements(By.xpath("//input[@name='group1']"));
 
         System.out.println(list.size());
 
@@ -30,7 +30,7 @@ public class RadioButtonsSelection {
             System.out.println(e.getAttribute("value"));
             System.out.println(e.isSelected());
 
-            if (e.getAttribute("value").equals("other")){
+            if (e.getAttribute("value").equals("Cheese")){
                 e.click();
             }
         }
