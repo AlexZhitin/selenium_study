@@ -25,7 +25,7 @@ public class Wait {
   public void WaitMethods() {
 
     driver.navigate().to("https://www.rediff.com/");
-    wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[@id=\"signin_info\"]/a[.='Sign in']"))).click();
+    wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"signin_info\"]/a[.='Sign in']"))).click();
 
   }
 }
