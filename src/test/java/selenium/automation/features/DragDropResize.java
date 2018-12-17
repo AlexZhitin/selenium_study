@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.util.concurrent.TimeUnit;
 
-public class DragDrop {
+public class DragDropResize {
 
   ChromeDriver driver = new ChromeDriver();
 
