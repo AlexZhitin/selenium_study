@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f7ebfb-5a83-4858-8623-3426c9643191" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,13 +30,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="3141" />
+          <entry key="java" value="3166" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3141" />
+          <entry key="JAVA" value="3166" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="5" />
         </counts>
@@ -83,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="25" column="104" selection-start-line="25" selection-start-column="104" selection-end-line="25" selection-end-column="104" />
+            <state relative-caret-position="162">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,7 +149,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="147" />
     <option name="y" value="136" />
     <option name="width" value="1084" />
@@ -234,7 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545064870111" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545066059398" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -352,9 +350,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HandlingSliding - 2018.12.14 at 16h 52m 35s.xml">
-      <configuration name="HandlingSliding" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Dropdown - 2018.12.17 at 18h 13m 29s.xml">
       <configuration name="Dropdown" configurationId="JUnit" />
     </history-entry>
@@ -382,9 +377,12 @@
     <history-entry file="Dropdown - 2018.12.17 at 18h 38m 08s.xml">
       <configuration name="Dropdown" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Dropdown - 2018.12.17 at 18h 40m 42s.xml">
+      <configuration name="Dropdown" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="468" y="136" width="1084" height="598" extended-state="0" />
+    <frame x="147" y="136" width="1084" height="598" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22072937" />
@@ -570,8 +568,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="25" column="104" selection-start-line="25" selection-start-column="104" selection-end-line="25" selection-end-column="104" />
+        <state relative-caret-position="162">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

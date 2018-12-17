@@ -26,5 +26,10 @@ public class Dropdown {
     WebElement dropdown = driver.findElement(By.xpath("//*[@id=\"tblcrtac\"]/tbody/tr[22]/td[3]/select[2]"));
     List<WebElement> option = dropdown.findElements(By.tagName("option"));
     System.out.println(option.size());
+
+    String element
+            for{
+
+    }
   }
 }
