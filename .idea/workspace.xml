@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f7ebfb-5a83-4858-8623-3426c9643191" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java" afterDir="false" />
     </list>
@@ -32,13 +33,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="3465" />
+          <entry key="java" value="3996" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3465" />
+          <entry key="JAVA" value="3996" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="5" />
         </counts>
@@ -46,12 +47,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
-          <entry key="java" value="9" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="10" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -80,11 +81,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="144">
+              <caret line="54" column="7" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,8 +120,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="-78">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDrop.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/automation/features/HandlingSliding.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java" />
       </list>
     </option>
   </component>
@@ -164,7 +181,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="212" />
+    <option name="x" value="55" />
     <option name="y" value="110" />
     <option name="width" value="1084" />
     <option name="height" value="700" />
@@ -246,7 +263,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545142221642" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545149365540" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -262,7 +279,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Dropdown">
+  <component name="RunManager" selected="JUnit.Checkboxes">
+    <configuration name="Checkboxes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.automation.features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.automation.features" />
+      <option name="MAIN_CLASS_NAME" value="selenium.automation.features.Checkboxes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DragDropResize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium_study" />
       <extension name="coverage">
@@ -305,20 +336,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FramesHandling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium.automation.features.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selenium.automation.features" />
-      <option name="MAIN_CLASS_NAME" value="selenium.automation.features.FramesHandling" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HandlingSliding" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium_study" />
       <extension name="coverage">
@@ -334,19 +351,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FramesHandling" />
       <item itemvalue="JUnit.DragandDrop" />
       <item itemvalue="JUnit.DragDropResize" />
       <item itemvalue="JUnit.HandlingSliding" />
       <item itemvalue="JUnit.Dropdown" />
+      <item itemvalue="JUnit.Checkboxes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Checkboxes" />
         <item itemvalue="JUnit.Dropdown" />
         <item itemvalue="JUnit.HandlingSliding" />
         <item itemvalue="JUnit.DragDropResize" />
         <item itemvalue="JUnit.DragandDrop" />
-        <item itemvalue="JUnit.FramesHandling" />
       </list>
     </recent_temporary>
   </component>
@@ -364,18 +381,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Dropdown - 2018.12.17 at 18h 27m 48s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Dropdown - 2018.12.17 at 18h 32m 13s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Dropdown - 2018.12.17 at 18h 37m 36s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Dropdown - 2018.12.17 at 18h 38m 08s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Dropdown - 2018.12.17 at 18h 40m 42s.xml">
       <configuration name="Dropdown" configurationId="JUnit" />
     </history-entry>
@@ -394,12 +399,23 @@
     <history-entry file="Dropdown - 2018.12.18 at 16h 09m 11s.xml">
       <configuration name="Dropdown" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Dropdown - 2018.12.18 at 16h 12m 22s.xml">
+      <configuration name="Dropdown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Dropdown - 2018.12.18 at 17h 17m 59s.xml">
+      <configuration name="Dropdown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Dropdown - 2018.12.18 at 17h 18m 23s.xml">
+      <configuration name="Dropdown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Checkboxes - 2018.12.18 at 17h 55m 28s.xml">
+      <configuration name="Checkboxes" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="30" width="1084" height="700" extended-state="0" />
-    <editor active="true" />
+    <frame x="66" y="280" width="1084" height="700" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22456814" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22456814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -407,16 +423,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974359" weight="0.4161184" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.46381578" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974359" visible="true" weight="0.4161184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46381578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50256413" side_tool="true" weight="0.3275194" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49925926" weight="0.19960475" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49925926" weight="0.19901316" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24952918" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -431,18 +447,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -560,13 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/FramesHandling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -577,10 +574,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="144">
+          <caret line="54" column="7" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

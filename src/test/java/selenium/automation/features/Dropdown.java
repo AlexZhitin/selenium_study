@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.By;
 
 
 import java.awt.*;
@@ -30,12 +29,29 @@ public class Dropdown {
     List<WebElement> option = dropdown.findElements(By.tagName("option"));
     System.out.println(option.size());
 
+
+    /*
+
+    Method 1:
+    ________________________________________
     String element;
 
     for(int i = 0; i<option.size(); i++){
       element = option.get(i).getAttribute("value");
       if(element.equals("09")){
         option.get(i).click();
+      }
+    }
+
+    }
+  }*/
+
+    /*Method 2 (easier way using for-each loop)
+    ___________________________________________________*/
+
+for(WebElement i: option){
+      if(i.getAttribute("value").equals("09")){
+        i.click();
       }
     }
 
