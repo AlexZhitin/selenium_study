@@ -23,13 +23,21 @@ public class Dropdown {
     driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
     driver.findElement(By.xpath("//a[contains(text(),'Create a Rediffmail account')]")).click();
 
+    //Creating and finding of webelement "dropdown"
     WebElement dropdown = driver.findElement(By.xpath("//*[@id=\"tblcrtac\"]/tbody/tr[22]/td[3]/select[2]"));
+
+    //Creating a list "option" which contains elements of dropdown (all elements with tagname "option")
     List<WebElement> option = dropdown.findElements(By.tagName("option"));
     System.out.println(option.size());
 
-    String element
-            for{
+    String element;
+
+    for(int i = 0; i<option.size(); i++){
+      element = option.get(i).getAttribute("value");
+      if(element.equals("09")){
+        option.get(i).click();
+      }
+    }
 
     }
   }
-}
