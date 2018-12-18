@@ -21,10 +21,10 @@ public class Checkboxes {
     List<WebElement> checkbox = driver.findElements(By.xpath("//ul[@class='checkboxes']//li/label/input[@type='checkbox']"));
 
     for (WebElement i : checkbox) {
-        if (i.getAttribute("id").equals("cond1") ||
-                i.getAttribute("id").equals("cond3")) {
-          i.click();
-        }
+      if (i.getAttribute("id").equals("cond1") ||
+              i.getAttribute("id").equals("cond3")) {
+        i.click();
       }
     }
   }
+}
