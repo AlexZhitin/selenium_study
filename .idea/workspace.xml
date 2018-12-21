@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f7ebfb-5a83-4858-8623-3426c9643191" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/advanced/selenium/features/UploaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,23 +22,24 @@
     <session id="-1344118175">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="3998" />
+          <entry key="java" value="4395" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3998" />
+          <entry key="JAVA" value="4395" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="5" />
         </counts>
@@ -45,12 +47,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
-          <entry key="java" value="10" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="12" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -82,8 +84,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="54" column="7" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+            <state relative-caret-position="397">
+              <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="15" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,10 +106,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/advanced/selenium/features/UploaderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state relative-caret-position="-125">
+              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,7 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/FramesHandling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="90">
               <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="15" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -118,8 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-78">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,6 +173,8 @@
         <option value="$PROJECT_DIR$/src/test/java/selenium/automation/features/HandlingSliding.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/advanced/selenium/features/DownloadDialogNotUniversal.java" />
+        <option value="$PROJECT_DIR$/src/test/java/advanced/selenium/features/UploaderTest.java" />
       </list>
     </option>
   </component>
@@ -179,10 +195,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="110" />
-    <option name="width" value="1084" />
-    <option name="height" value="700" />
+    <option name="x" value="85" />
+    <option name="y" value="-850" />
+    <option name="width" value="1103" />
+    <option name="height" value="649" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -231,6 +247,14 @@
             <path>
               <item name="selenium-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium_study" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -245,8 +269,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545149504947" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545403787591" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -261,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Checkboxes">
+  <component name="RunManager" selected="JUnit.UploaderTest">
     <configuration name="Checkboxes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium_study" />
       <extension name="coverage">
@@ -286,20 +313,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="selenium.automation.features" />
       <option name="MAIN_CLASS_NAME" value="selenium.automation.features.DragDropResize" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DragandDrop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium.automation.features.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selenium.automation.features" />
-      <option name="MAIN_CLASS_NAME" value="selenium.automation.features.DragandDrop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -332,20 +345,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UploaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.selenium.features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="advanced.selenium.features" />
+      <option name="MAIN_CLASS_NAME" value="advanced.selenium.features.UploaderTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.DragandDrop" />
       <item itemvalue="JUnit.DragDropResize" />
       <item itemvalue="JUnit.HandlingSliding" />
       <item itemvalue="JUnit.Dropdown" />
       <item itemvalue="JUnit.Checkboxes" />
+      <item itemvalue="JUnit.UploaderTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UploaderTest" />
         <item itemvalue="JUnit.Checkboxes" />
         <item itemvalue="JUnit.Dropdown" />
         <item itemvalue="JUnit.HandlingSliding" />
         <item itemvalue="JUnit.DragDropResize" />
-        <item itemvalue="JUnit.DragandDrop" />
       </list>
     </recent_temporary>
   </component>
@@ -363,41 +390,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Dropdown - 2018.12.18 at 16h 00m 12s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 13h 44m 08s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Dropdown - 2018.12.18 at 16h 03m 57s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 15h 12m 03s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Dropdown - 2018.12.18 at 16h 06m 13s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 15h 15m 42s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Dropdown - 2018.12.18 at 16h 06m 51s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 15h 24m 18s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Dropdown - 2018.12.18 at 16h 09m 11s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 15h 27m 27s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Dropdown - 2018.12.18 at 16h 12m 22s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 15h 46m 36s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Dropdown - 2018.12.18 at 17h 17m 59s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 15h 49m 56s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Dropdown - 2018.12.18 at 17h 18m 23s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 15h 53m 40s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Checkboxes - 2018.12.18 at 17h 55m 28s.xml">
-      <configuration name="Checkboxes" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 16h 10m 41s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Checkboxes - 2018.12.18 at 18h 08m 58s.xml">
-      <configuration name="Checkboxes" configurationId="JUnit" />
+    <history-entry file="UploaderTest - 2018.12.21 at 16h 45m 44s.xml">
+      <configuration name="UploaderTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="110" width="1084" height="700" extended-state="0" />
+    <frame x="85" y="-850" width="1103" height="649" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31957772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3195099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -406,15 +434,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974359" visible="true" weight="0.4161184" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46381578" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974359" visible="true" weight="0.34290844" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36624774" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50256413" side_tool="true" weight="0.3275194" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49925926" weight="0.19901316" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49925926" weight="0.19748653" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24952918" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -474,9 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="17" column="45" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -523,9 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,7 +570,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/FramesHandling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="90">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="15" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -556,10 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/advanced/selenium/features/DownloadDialogNotUniversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -568,8 +590,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="54" column="7" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+        <state relative-caret-position="397">
+          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -578,8 +610,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="195">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/advanced/selenium/features/UploaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -589,9 +631,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>selenium_study</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
