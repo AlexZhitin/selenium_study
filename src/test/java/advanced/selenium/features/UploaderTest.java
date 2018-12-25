@@ -19,7 +19,7 @@ public class UploaderTest {
 
   @Test
 
-public void Upload() throws IOException {
+public void UploadMac() throws IOException {
 
     driver.get("http://tinypic.com/");
     driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
