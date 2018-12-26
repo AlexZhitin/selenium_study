@@ -8,6 +8,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.concurrent.TimeUnit;
 
+
+
 public class DatePicker {
 
   ChromeDriver driver = new ChromeDriver();
@@ -16,12 +18,14 @@ public class DatePicker {
 
   public void Calendar(){
 
-    driver.get("https://www.tripadvisor.in/");
+    driver.get("https://tickets.ua/");
     driver.manage().timeouts().implicitlyWait(3,TimeUnit.SECONDS);
 
-    WebElement a = driver.findElement(By.xpath("//*[@id=\"Monikers\"]"));
-    driver.switchTo().frame(a);
-    driver.findElement(By.xpath("//*[@id=\"c_onboarding-interstitial\"]/div/div[2]"));
+    driver.findElement(By.xpath("//*[@id=\"from_name\"]"));
+
+    //WebElement a = driver.findElement(By.xpath("//*[@id=\"Monikers\"]"));
+    //driver.switchTo().frame(a);
+    //driver.findElement(By.xpath("//*[@id=\"c_onboarding-interstitial\"]/div/div[2]"));
 
 
     //driver.findElement(By.xpath("//*[@id=\"component_3\"]/div/div/span[4]/div/a"));
