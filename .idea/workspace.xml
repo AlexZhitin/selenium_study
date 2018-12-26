@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f7ebfb-5a83-4858-8623-3426c9643191" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/advanced/selenium/features/DatePicker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/advanced/selenium/features/UploaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/advanced/selenium/features/UploaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,103 +19,57 @@
       <FILTER>selenium.automation.features.*</FILTER>
     </SUITE>
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1344118175">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="475" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="475" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="196">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/RadioButtonsSelection.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/advanced/selenium/features/DatePicker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="40" column="55" lean-forward="true" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+            <state relative-caret-position="243">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-544">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/HandlingSliding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Wait.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="33" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Navigation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/FramesHandling.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElementXpath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -153,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/test/java/advanced/selenium/features/DownloadDialogNotUniversal.java" />
         <option value="$PROJECT_DIR$/src/test/java/advanced/selenium/features/UploaderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/automation/features/RadioButtonsSelection.java" />
+        <option value="$PROJECT_DIR$/src/test/java/advanced/selenium/features/DatePicker.java" />
       </list>
     </option>
   </component>
@@ -173,17 +129,16 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="213" />
-    <option name="y" value="102" />
-    <option name="width" value="1498" />
-    <option name="height" value="873" />
+    <option name="x" value="15" />
+    <option name="y" value="23" />
+    <option name="width" value="1193" />
+    <option name="height" value="711" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,10 +196,7 @@
             <path>
               <item name="selenium-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-study" type="b2602c69:ProjectViewProjectNode" />
@@ -254,11 +206,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545681636128" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545839810971" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -277,9 +230,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RadioButtonsSelection">
+  <component name="RunManager" selected="JUnit.DatePicker">
+    <configuration name="Checkboxes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.automation.features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.automation.features" />
+      <option name="MAIN_CLASS_NAME" value="selenium.automation.features.Checkboxes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatePicker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.selenium.features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="advanced.selenium.features" />
+      <option name="MAIN_CLASS_NAME" value="advanced.selenium.features.DatePicker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DragDropResize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium.study" />
+      <module name="selenium_study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="selenium.automation.features.*" />
@@ -288,52 +269,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="selenium.automation.features" />
       <option name="MAIN_CLASS_NAME" value="selenium.automation.features.DragDropResize" />
-      <option name="METHOD_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dropdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium.study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium.automation.features.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selenium.automation.features" />
-      <option name="MAIN_CLASS_NAME" value="selenium.automation.features.Dropdown" />
-      <option name="METHOD_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FramesHandling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium.study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium.automation.features.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selenium.automation.features" />
-      <option name="MAIN_CLASS_NAME" value="selenium.automation.features.FramesHandling" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Navigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium.study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium.automation.features.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selenium.automation.features" />
-      <option name="MAIN_CLASS_NAME" value="selenium.automation.features.Navigation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -352,20 +287,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UploaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.selenium.features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="advanced.selenium.features" />
+      <option name="MAIN_CLASS_NAME" value="advanced.selenium.features.UploaderTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.DragDropResize" />
-      <item itemvalue="JUnit.Dropdown" />
-      <item itemvalue="JUnit.Navigation" />
-      <item itemvalue="JUnit.FramesHandling" />
       <item itemvalue="JUnit.RadioButtonsSelection" />
+      <item itemvalue="JUnit.UploaderTest" />
+      <item itemvalue="JUnit.DatePicker" />
+      <item itemvalue="JUnit.Checkboxes" />
+      <item itemvalue="JUnit.DragDropResize" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RadioButtonsSelection" />
-        <item itemvalue="JUnit.FramesHandling" />
-        <item itemvalue="JUnit.Navigation" />
-        <item itemvalue="JUnit.Dropdown" />
+        <item itemvalue="JUnit.DatePicker" />
+        <item itemvalue="JUnit.Checkboxes" />
         <item itemvalue="JUnit.DragDropResize" />
+        <item itemvalue="JUnit.UploaderTest" />
+        <item itemvalue="JUnit.RadioButtonsSelection" />
       </list>
     </recent_temporary>
   </component>
@@ -383,41 +332,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UploaderTest - 2018.12.21 at 16h 10m 41s.xml">
-      <configuration name="UploaderTest" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 34m 03s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UploaderTest - 2018.12.21 at 16h 45m 44s.xml">
-      <configuration name="UploaderTest" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 36m 53s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Checkboxes - 2018.12.24 at 13h 22m 26s.xml">
-      <configuration name="Checkboxes" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 37m 21s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DragDropResize - 2018.12.24 at 13h 23m 20s.xml">
-      <configuration name="DragDropResize" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 38m 31s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DragDropResize - 2018.12.24 at 13h 23m 58s.xml">
-      <configuration name="DragDropResize" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 41m 43s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Dropdown - 2018.12.24 at 13h 25m 27s.xml">
-      <configuration name="Dropdown" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 47m 45s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Navigation - 2018.12.24 at 18h 14m 07s.xml">
-      <configuration name="Navigation" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 51m 53s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FramesHandling - 2018.12.24 at 18h 15m 41s.xml">
-      <configuration name="FramesHandling" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 53m 01s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RadioButtonsSelection - 2018.12.24 at 18h 17m 32s.xml">
-      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 53m 34s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RadioButtonsSelection - 2018.12.24 at 18h 18m 15s.xml">
-      <configuration name="RadioButtonsSelection" configurationId="JUnit" />
+    <history-entry file="DatePicker - 2018.12.26 at 17h 56m 25s.xml">
+      <configuration name="DatePicker" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="171" y="82" width="1198" height="698" extended-state="0" />
+    <frame x="15" y="23" width="1193" height="711" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3049209" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3553432" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,15 +375,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974359" weight="0.31272084" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36624774" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974359" weight="0.37802908" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.365105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32909092" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50256413" side_tool="true" weight="0.3275194" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49925926" weight="0.1969112" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49925926" weight="0.19386107" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24952918" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -446,6 +395,21 @@
       <window_info anchor="right" id="Maven" order="8" weight="0.32943144" />
       <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5019763" side_tool="true" visible="true" weight="0.14971209" />
     </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/advanced/selenium/features/DatePicker.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -500,72 +464,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/advanced/selenium/features/DownloadDialogNotUniversal.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/advanced/selenium/features/UploaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Wait.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/FramesHandling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElementXpath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-544">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -587,6 +489,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="40" column="55" lean-forward="true" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/selenium/study/FindElemenBy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/advanced/selenium/features/UploaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Checkboxes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Dropdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/DragDropResize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/Wait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/By.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="149" column="3" lean-forward="true" selection-start-line="149" selection-start-column="3" selection-end-line="149" selection-end-column="3" />
+          <folding>
+            <element signature="e#4139#4140#0" expanded="true" />
+            <element signature="e#4186#4187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/automation/features/FramesHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="23" column="31" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/advanced/selenium/features/DatePicker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
