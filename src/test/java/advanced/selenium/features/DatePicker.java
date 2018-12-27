@@ -6,6 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 
@@ -16,18 +17,30 @@ public class DatePicker {
 
   @Test
 
-  public void Calendar(){
+  public void Calendar() {
 
     driver.get("https://tickets.ua/");
-    driver.manage().timeouts().implicitlyWait(3,TimeUnit.SECONDS);
+    driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 
-    driver.findElement(By.xpath("//*[@id=\"from_name\"]"));
+    driver.findElement(By.xpath("//*[@id=\"from_name\"]")).sendKeys("Прага");
+    driver.findElement(By.xpath("//*[@id=\"to_name\"]")).sendKeys("Вена");
+    driver.findElement(By.xpath("//*[@id=\"departure_date\"]")).click();
 
-    //WebElement a = driver.findElement(By.xpath("//*[@id=\"Monikers\"]"));
-    //driver.switchTo().frame(a);
-    //driver.findElement(By.xpath("//*[@id=\"c_onboarding-interstitial\"]/div/div[2]"));
+    String date = "30-December 2018";
+    String splitter[] = date.split("-");
+    String checkInmonth_year = splitter[1];
+    String checkInday = splitter[0];
 
+    selectDate(checkInmonth_year, checkInday);
+  }
 
-    //driver.findElement(By.xpath("//*[@id=\"component_3\"]/div/div/span[4]/div/a"));
+  public void selectDate(String month_year, String day) {
+
+    List<WebElement> months = driver.findElements(By.xpath("//span[@class='ui-datepicker-month']"));
+    for (WebElement i : months){
+      System.out.println(i.getText());
+
+    }
+
   }
 }
