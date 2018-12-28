@@ -39,8 +39,11 @@ public class DatePicker {
     List<WebElement> months = driver.findElements(By.xpath("//span[@class='ui-datepicker-month']"));
     for (WebElement i : months){
       System.out.println(i.getText());
+      if(i.getText().equals(month_year)){
+        
+      }
 
     }
-
+    driver.quit();
   }
 }
