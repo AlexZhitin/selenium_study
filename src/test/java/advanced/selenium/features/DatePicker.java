@@ -24,9 +24,6 @@ public class DatePicker {
 
         driver.findElement(By.xpath("//*[@id=\"from_name\"]")).click();
         driver.findElement(By.xpath("//*[@id=\"from_name\"]")).sendKeys("Прага");
-        /*driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//a[@id='ui-id-27']")).click();
-        Thread.sleep(1000);*/
         driver.findElement(By.xpath("//*[@id=\"to_name\"]")).click();
         driver.findElement(By.xpath("//*[@id=\"to_name\"]")).sendKeys("Вена");
         driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
