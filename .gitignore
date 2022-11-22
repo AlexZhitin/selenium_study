@@ -6,5 +6,6 @@ target
 builds
 .allure
 allure-results
-workspace.xml
+.idea/workspace.xml
+.idea/jarRepositories.xml
 log/
