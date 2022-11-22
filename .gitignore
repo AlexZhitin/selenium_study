@@ -1,4 +1,5 @@
-.idea/
+/.idea/
+.idea/workspace.xml
 *.html
 *.iml
 .DS_Store
@@ -6,6 +7,5 @@ target
 builds
 .allure
 allure-results
-.idea/workspace.xml
 .idea/jarRepositories.xml
 log/
