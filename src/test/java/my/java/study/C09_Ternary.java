@@ -1,4 +1,4 @@
-package my.java.study.logicOperations;
+package my.java.study;
 
 public class C09_Ternary {
     // Тернарная условная операция. Вложенные тернарные операторы.

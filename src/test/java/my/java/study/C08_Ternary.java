@@ -1,4 +1,4 @@
-package my.java.study.logicOperations;
+package my.java.study;
 
 public class C08_Ternary {
     // Тернарная условная операция. Ограничения связанные с типобезопасностью.

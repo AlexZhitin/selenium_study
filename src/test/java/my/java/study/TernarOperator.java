@@ -1,4 +1,4 @@
-package my.java.study.logicOperations;
+package my.java.study;
 
 public class TernarOperator {
     public static void main(String[] args){
