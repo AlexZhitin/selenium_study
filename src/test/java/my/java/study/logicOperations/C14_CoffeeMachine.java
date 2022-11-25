@@ -1,4 +1,4 @@
-package my.java.study;
+package my.java.study.logicOperations;
 
 import java.util.Scanner;
 

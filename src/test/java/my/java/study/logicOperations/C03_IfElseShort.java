@@ -1,4 +1,4 @@
-package my.java.study;
+package my.java.study.logicOperations;
 
 public class C03_IfElseShort {
     public static void main(String[] args) {
